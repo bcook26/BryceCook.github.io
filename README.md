@@ -1,2 +1,1 @@
-# BryceCook.github.io
-PortWebsite Link
+# BryceCook Portfolio Website
